@@ -16,12 +16,14 @@ body {
 .banner {
   background-color: #2b3851;
   position: relative;
+  padding: 2em;
 }
 
 .robot {
   position: relative;
   width: 320px;
   margin: 0 auto;
+  top: 2.4em;
 }
 
 .robot-body {
@@ -36,16 +38,16 @@ body {
 
 .robot-head-right {
   position: absolute;
-  top: 2em;
+
 }
 
 .robot-head-left {
   position: absolute;
-  top: 2em;
-
 }
 .robot-head-right,
 .robot-head-left {
   position: absolute;
   width: 125px;
+  bottom: 3.5em;
+
 }
