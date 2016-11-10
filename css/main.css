@@ -34,20 +34,22 @@ body {
   position: absolute;
   top: 0;
   width: 46px;
+  left: 8.5em;
+  bottom:
 }
 
 .robot-head-right {
-  position: absolute;
-
+  left: 10em;
 }
 
 .robot-head-left {
-  position: absolute;
+  right: 10em;
+
 }
 .robot-head-right,
 .robot-head-left {
   position: absolute;
   width: 125px;
-  bottom: 3.5em;
+  bottom: 3.8em;
 
 }
